@@ -1,4 +1,5 @@
 # Consumer-Behavior-Analytics-Alert-System
+[Download HTML file from Google drive](https://drive.google.com/drive/folders/12yty00-FvPdErGcOUtCYsuBHBjspqo6D?usp=sharing)
 
 ## Overview:
 This project focuses on informing the gap between macroeconomic trends and consumer behavior. By leveraging data-driven insights, the goal is to analyze how consumers respond to changes in the Economic Consumption Index (ECI) and develop a real-time alert system to monitor and evaluate the performance of individual indices. Such a system can provide actionable insights to businesses, policymakers, and researchers for strategic decision-making.
